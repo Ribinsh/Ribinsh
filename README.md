@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ribinsh</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on **Brototype**
+- 🔭 I’m currently working on **Ampcome Private Limited**
 
 - 🌱 I’m currently learning **ReactJS ,NextJS, MongoDB, Typescript , Javascript , NodeJS**
 
