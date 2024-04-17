@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ampcome Private Limited**
 
-- 🌱 I’m currently learning **ReactJS ,NextJS, Typescript , Javascript , sql , GraphQl, Hasura**
+- 🌱 I know **ReactJS ,NextJS, Typescript , Javascript , sql , GraphQl, Hasura**
 
 - 💬 Ask me about **react , javascript**
 
